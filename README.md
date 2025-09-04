@@ -112,7 +112,7 @@ Check out my separate repo for Fabric samples and setup guide:
 ## 2. Clone this Repository
 ```bash
 git clone https://github.com/yourusername/Decentralized-Voting-System.git
-cd decentralized-voting
+cd Decentralized-Voting-System
 ```
 
 ## 3. Backend Setup
