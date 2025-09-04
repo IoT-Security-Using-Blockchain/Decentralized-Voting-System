@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "tailwindcss-animate";
+
+/* Base reset */
+@layer base {
+  body {
+    @apply bg-gray-900 text-white antialiased;
+  }
+}
